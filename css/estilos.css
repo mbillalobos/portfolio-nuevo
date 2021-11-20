@@ -1,0 +1,51 @@
+/*Estilos del Index*/
+
+.inicio {
+    background-image: url(../images/index.png);
+    background-repeat: no-repeat;
+    background-size: 105%;
+}
+
+
+/*Estilos de sobre-mi*/
+
+.sobre-mi {
+    background-image: url(../images/sobre-mi.png);
+    background-repeat: no-repeat;
+    background-size: 105%;
+}
+
+/*Estilos de proyectos*/
+
+.proyectos {
+    background-image: url(../images/proyectos.png);
+    background-repeat: no-repeat;
+    background-size: 105%;
+}
+
+/*Estilos de contacto*/
+
+.contacto {
+    background-image: url(../images/contacto.png);
+    background-repeat: no-repeat;
+    background-size: 105%;
+}
+
+/*Estilos compartidos*/
+
+footer {
+    width: 100%;
+    height: 81px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.fa-whatsapp {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    color: green;
+    font-size: 50px;
+
+}
